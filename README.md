@@ -19,4 +19,4 @@ This project runs on a Debian 12 system with Node.js and Vue.js 3.4.29, which is
 
 DevBox: Code. Build. Deploy. We've Got the Rest.
 
-With DevBox, you can focus entirely on writing great code while we handle the infrastructure, scaling, and deployment. Seamless development from start to production. 
+With DevBox, you can focus entirely on writing great code while we handle the infrastructure, scaling, and deployment. Seamless development from start to production. # end1
