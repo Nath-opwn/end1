@@ -15,7 +15,8 @@
     "framer-motion": "^12.23.0",
     "react-icons": "^5.5.0",
     "recharts": "^3.0.2",
-    "vue": "^3.4.29"
+    "vue": "^3.4.29",
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.6.0",
