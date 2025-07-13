@@ -16,7 +16,17 @@ This project runs on a Debian 12 system with Node.js and Vue.js 3.4.29, which is
 
 **Production mode:** After release, the project will be automatically packaged into a Docker image and deployed according to the `entrypoint.sh` script with production parameters (run `bash entrypoint.sh production`). This will build optimized static files and serve them using Vite's preview server.
 
+## 流体动力学模拟系统
+
+本项目是一个流体动力学模拟系统，集成了后端API（https://fkgajhijzwnm.sealoshzh.site/）。系统包含以下主要功能模块：
+
+1. **认证模块** - 用户注册、登录和个人资料管理
+2. **模拟模块** - 创建和管理流体动力学模拟会话
+3. **知识库模块** - 流体动力学相关知识资源
+4. **教程模块** - 互动式教程，包括船只漂移等现象的演示
+
+系统使用Vue.js 3构建前端界面，通过API与后端服务通信，实现流体动力学模拟的可视化和交互式体验。
 
 DevBox: Code. Build. Deploy. We've Got the Rest.
 
-With DevBox, you can focus entirely on writing great code while we handle the infrastructure, scaling, and deployment. Seamless development from start to production. # end1
+With DevBox, you can focus entirely on writing great code while we handle the infrastructure, scaling, and deployment. Seamless development from start to production.
